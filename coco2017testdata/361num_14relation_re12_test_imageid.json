@@ -1,0 +1,7896 @@
+[
+    {
+        "path": "",
+        "caption": "a black honda motorcycle parked in front of a garage.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 179765
+    },
+    {
+        "path": "",
+        "caption": "a cat in between two cars.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 172330
+    },
+    {
+        "path": "",
+        "caption": "a man sleeping with his cat next to him",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 61,
+                "class_name": "cat"
+            }
+        ],
+        "image_id": 223747
+    },
+    {
+        "path": "",
+        "caption": "a striped plane flying up into the sky as the sun shines behind it.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 44,
+                "class_name": "plane"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 338325
+    },
+    {
+        "path": "",
+        "caption": "a customized motorcycle with more in the background.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 226662
+    },
+    {
+        "path": "",
+        "caption": "a black trash bag in a restroom next to a sink.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 26,
+                "class_name": "bag"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 51598
+    },
+    {
+        "path": "",
+        "caption": "two computers sitting on top of a desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 64,
+                "class_name": "computer"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 63740
+    },
+    {
+        "path": "",
+        "caption": "three computers without screens sit on a desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 64,
+                "class_name": "computer"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 570782
+    },
+    {
+        "path": "",
+        "caption": "a few people sitting by a busy street",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 414510
+    },
+    {
+        "path": "",
+        "caption": "small motorcycle with several bicycles tied to the back of it. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 24,
+                "class_name": "bike"
+            },
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 70774
+    },
+    {
+        "path": "",
+        "caption": "a marine that is looking at his cell phone.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 38,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 49,
+                "class_name": "phone"
+            }
+        ],
+        "image_id": 228214
+    },
+    {
+        "path": "",
+        "caption": "a motorcycle is parked on a dirt road in a forest.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 140420
+    },
+    {
+        "path": "",
+        "caption": "a gray cat standing on top of a black car.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 10363
+    },
+    {
+        "path": "",
+        "caption": "a kitchen with a granite counter top and faucet.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 31,
+                "class_name": "counter"
+            },
+            {
+                "class": 90,
+                "class_name": "faucet"
+            }
+        ],
+        "image_id": 452793
+    },
+    {
+        "path": "",
+        "caption": "an airplane leaving a trail in the sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 1,
+                "class_name": "sky"
+            },
+            {
+                "class": 50,
+                "class_name": "airplane"
+            }
+        ],
+        "image_id": 485802
+    },
+    {
+        "path": "",
+        "caption": "an old victorian style bed frame in a bedroom.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 116479
+    },
+    {
+        "path": "",
+        "caption": "a yellow and blue plant flying in a gray sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 72,
+                "class_name": "plant"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 52017
+    },
+    {
+        "path": "",
+        "caption": "a group of men standing on the side of a street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 7,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 138639
+    },
+    {
+        "path": "",
+        "caption": "a yellow and blue train is next to an traffic light.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 9,
+                "class_name": "train"
+            },
+            {
+                "class": 47,
+                "class_name": "traffic light"
+            }
+        ],
+        "image_id": 232538
+    },
+    {
+        "path": "",
+        "caption": "an airplane on the runway either just landed or ready to take off.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 50,
+                "class_name": "airplane"
+            }
+        ],
+        "image_id": 96549
+    },
+    {
+        "path": "",
+        "caption": "a brown horse is walking in between two cars",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 43,
+                "class_name": "horse"
+            },
+            {
+                "class": 61,
+                "class_name": "cat"
+            }
+        ],
+        "image_id": 368335
+    },
+    {
+        "path": "",
+        "caption": "people stand around an antique motorcycle in a grassy area.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 308631
+    },
+    {
+        "path": "",
+        "caption": "a black cat standing in front of a motorcycle",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 153217
+    },
+    {
+        "path": "",
+        "caption": "a gray and white kitten sitting in a bathroom sink.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 209747
+    },
+    {
+        "path": "",
+        "caption": "a television screen is displayed in an empty bus.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 20,
+                "class_name": "monitor"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 194832
+    },
+    {
+        "path": "",
+        "caption": "a white truck parked next to a white trailer.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 3,
+                "class_name": "truck"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 515266
+    },
+    {
+        "path": "",
+        "caption": "an orange cat sitting in front of a refrigerator.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 75,
+                "class_name": "refrigerator"
+            }
+        ],
+        "image_id": 360943
+    },
+    {
+        "path": "",
+        "caption": "a bathroom sink with a marble counter top.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 31,
+                "class_name": "counter"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 302760
+    },
+    {
+        "path": "",
+        "caption": "a bathroom sink next to a plant.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 53,
+                "class_name": "sink"
+            },
+            {
+                "class": 72,
+                "class_name": "plant"
+            }
+        ],
+        "image_id": 354072
+    },
+    {
+        "path": "",
+        "caption": "a black cat sits in a bathroom sink.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 23,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 284623
+    },
+    {
+        "path": "",
+        "caption": "a picture of a person standing by a bicycle.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 7,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 24,
+                "class_name": "bike"
+            }
+        ],
+        "image_id": 357737
+    },
+    {
+        "path": "",
+        "caption": "two planes flying in the sky over a bridge.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 23,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 44,
+                "class_name": "plane"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 1761
+    },
+    {
+        "path": "",
+        "caption": "a man rides a large motorcycle on a freeway.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 553776
+    },
+    {
+        "path": "",
+        "caption": "a black dog standing between people in line",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "image_id": 554002
+    },
+    {
+        "path": "",
+        "caption": "a calico cat laying on the hood of a mercedes.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 23272
+    },
+    {
+        "path": "",
+        "caption": "a kitchen with a stove top oven next to a white fridge.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 37,
+                "class_name": "stove"
+            },
+            {
+                "class": 75,
+                "class_name": "refrigerator"
+            }
+        ],
+        "image_id": 222825
+    },
+    {
+        "path": "",
+        "caption": "a black cat sits in a car and looks out.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 8,
+                "class_name": "car"
+            },
+            {
+                "class": 61,
+                "class_name": "cat"
+            }
+        ],
+        "image_id": 107087
+    },
+    {
+        "path": "",
+        "caption": "a street scene with a person on a motorcycle.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 139099
+    },
+    {
+        "path": "",
+        "caption": "a yamaha motorcycle parked outside of a building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 64,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 293245
+    },
+    {
+        "path": "",
+        "caption": "a close up of a motorcycle parked near a building",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 19,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 321557
+    },
+    {
+        "path": "",
+        "caption": "a close up of a dog near a bowl",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 19,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 63,
+                "class_name": "bowl"
+            }
+        ],
+        "image_id": 205834
+    },
+    {
+        "path": "",
+        "caption": "a white refrigerator and a counter in a room.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 31,
+                "class_name": "counter"
+            },
+            {
+                "class": 75,
+                "class_name": "refrigerator"
+            }
+        ],
+        "image_id": 540502
+    },
+    {
+        "path": "",
+        "caption": "a black and white cat standing in a white bathroom sink.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 23,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 227044
+    },
+    {
+        "path": "",
+        "caption": "a person standing on top of a skis covered slope.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 77,
+                "class_name": "skis"
+            }
+        ],
+        "image_id": 2532
+    },
+    {
+        "path": "",
+        "caption": "a row of parked motorcycles sitting in front of a tall building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 356387
+    },
+    {
+        "path": "",
+        "caption": "a small black and brown dog sitting next to a motorcycle.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 472375
+    },
+    {
+        "path": "",
+        "caption": "two men talking to each other on a street corner",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 8211
+    },
+    {
+        "path": "",
+        "caption": "a cat standing next to a bike parked against a wall.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 24,
+                "class_name": "bike"
+            },
+            {
+                "class": 61,
+                "class_name": "cat"
+            }
+        ],
+        "image_id": 101762
+    },
+    {
+        "path": "",
+        "caption": "a cat standing on the edge of a sink drink water.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 47121
+    },
+    {
+        "path": "",
+        "caption": "the motorcycles are parked on the side of the building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 488385
+    },
+    {
+        "path": "",
+        "caption": "there is a woman standing on a city street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 39,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 224724
+    },
+    {
+        "path": "",
+        "caption": "the giraffe is standing in the shade of the tree.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 16,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 11,
+                "class_name": "tree"
+            }
+        ],
+        "image_id": 485895
+    },
+    {
+        "path": "",
+        "caption": "a woman sitting on top of a wooden bench.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 349184
+    },
+    {
+        "path": "",
+        "caption": "an air force jet flying in a deep blue sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 44,
+                "class_name": "plane"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 379453
+    },
+    {
+        "path": "",
+        "caption": "an image of a night scene with a cat on top of a car",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 167122
+    },
+    {
+        "path": "",
+        "caption": "a parked motorcycle sitting on a dirty road.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 410878
+    },
+    {
+        "path": "",
+        "caption": "a row of parked motorcycles on the side of a street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 490936
+    },
+    {
+        "path": "",
+        "caption": "a woman observing something on a kitchen stove.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 38,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 37,
+                "class_name": "stove"
+            }
+        ],
+        "image_id": 33638
+    },
+    {
+        "path": "",
+        "caption": "a man standing in the street with a umbrella.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 232563
+    },
+    {
+        "path": "",
+        "caption": "an old motorcycle rests near a rundown building. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 19,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 149406
+    },
+    {
+        "path": "",
+        "caption": "a traffic light with a sad face on the red light. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 47,
+                "class_name": "traffic light"
+            },
+            {
+                "class": 96,
+                "class_name": "face"
+            }
+        ],
+        "image_id": 531134
+    },
+    {
+        "path": "",
+        "caption": "a row of motorcycles parked together on a grass yard area.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 455716
+    },
+    {
+        "path": "",
+        "caption": "a orange calico cat on top of a vehicle.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 530099
+    },
+    {
+        "path": "",
+        "caption": "a painting of a man and woman riding together on a motorcycle.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 480021
+    },
+    {
+        "path": "",
+        "caption": "a traffic light sitting on the side of a road.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 47,
+                "class_name": "traffic light"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 480944
+    },
+    {
+        "path": "",
+        "caption": "a man standing next to a dog on the ground.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 41,
+                "class_name": "dog"
+            }
+        ],
+        "image_id": 329219
+    },
+    {
+        "path": "",
+        "caption": "a group of giraffe standing next to each other.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            }
+        ],
+        "image_id": 296969
+    },
+    {
+        "path": "",
+        "caption": "the airplane in the sky is doing tricks while spitting out smoke. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 23,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 50,
+                "class_name": "airplane"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 199977
+    },
+    {
+        "path": "",
+        "caption": "a couple of giraffe standing in a building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 287545
+    },
+    {
+        "path": "",
+        "caption": "a green motorcycle parked on top of a green lawn.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 291791
+    },
+    {
+        "path": "",
+        "caption": "yellow train stopped at the station in front of a bench.  ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 9,
+                "class_name": "train"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 129135
+    },
+    {
+        "path": "",
+        "caption": "a group of women in kitchen next to pot.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 78,
+                "class_name": "pot"
+            }
+        ],
+        "image_id": 84241
+    },
+    {
+        "path": "",
+        "caption": "two planes are close together in the sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 23,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 44,
+                "class_name": "plane"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 135673
+    },
+    {
+        "path": "",
+        "caption": "two women sitting on a park bench",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 227478
+    },
+    {
+        "path": "",
+        "caption": "the striped cat is sitting on top of the car.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 466156
+    },
+    {
+        "path": "",
+        "caption": "a red and white bicycle next to a building and door.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 24,
+                "class_name": "bike"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 203317
+    },
+    {
+        "path": "",
+        "caption": "a jet liner flying above in the clear blue sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 23,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 44,
+                "class_name": "plane"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 410221
+    },
+    {
+        "path": "",
+        "caption": "an airplane flying in a cloudy blue sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 23,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 50,
+                "class_name": "airplane"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 167540
+    },
+    {
+        "path": "",
+        "caption": "a grey and white dog sitting in the passenger side of a car.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 131273
+    },
+    {
+        "path": "",
+        "caption": "a person riding a skate board on a city street",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 279278
+    },
+    {
+        "path": "",
+        "caption": "two rows of cars parked next to a boat.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 8,
+                "class_name": "car"
+            },
+            {
+                "class": 12,
+                "class_name": "boat"
+            }
+        ],
+        "image_id": 111086
+    },
+    {
+        "path": "",
+        "caption": "a grey colored jet plane flying over a snowy mountain range.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 10,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 44,
+                "class_name": "plane"
+            },
+            {
+                "class": 42,
+                "class_name": "mountain"
+            }
+        ],
+        "image_id": 424776
+    },
+    {
+        "path": "",
+        "caption": "an old car in front of an old air plane",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 8,
+                "class_name": "car"
+            },
+            {
+                "class": 50,
+                "class_name": "airplane"
+            }
+        ],
+        "image_id": 493286
+    },
+    {
+        "path": "",
+        "caption": "a man standing on top of an orange boat.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 39,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 12,
+                "class_name": "boat"
+            }
+        ],
+        "image_id": 400803
+    },
+    {
+        "path": "",
+        "caption": "a woman poses in front of a giant pizza",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 66,
+                "class_name": "pizza"
+            }
+        ],
+        "image_id": 458992
+    },
+    {
+        "path": "",
+        "caption": "a laptop computer sitting on top of a table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 464476
+    },
+    {
+        "path": "",
+        "caption": "a young man sitting on top of a white bench.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 132587
+    },
+    {
+        "path": "",
+        "caption": "a lady that has a bowl in her hand",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 3,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 63,
+                "class_name": "bowl"
+            }
+        ],
+        "image_id": 485844
+    },
+    {
+        "path": "",
+        "caption": "a giraffe standing on top of a dirt and grass field.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 152870
+    },
+    {
+        "path": "",
+        "caption": "a man sitting in front of a laptop computer in an office.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 13659
+    },
+    {
+        "path": "",
+        "caption": "a row of wooden benches sitting on the side of a road.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 32,
+                "class_name": "bench"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 153527
+    },
+    {
+        "path": "",
+        "caption": "there is a red car parked next to an old bus.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 8,
+                "class_name": "car"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 543043
+    },
+    {
+        "path": "",
+        "caption": "a red fire hydrant sitting on a patch of green grass.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 91,
+                "class_name": "hydrant"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 343315
+    },
+    {
+        "path": "",
+        "caption": "two little girls sitting on the side of a white boat.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 12,
+                "class_name": "boat"
+            }
+        ],
+        "image_id": 46497
+    },
+    {
+        "path": "",
+        "caption": "a bus stopped in front of a building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 306136
+    },
+    {
+        "path": "",
+        "caption": "two traffic lights in front of a huge building ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 47,
+                "class_name": "traffic light"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 503841
+    },
+    {
+        "path": "",
+        "caption": "a beautiful woman taking a picture with her smart phone.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 49,
+                "class_name": "phone"
+            }
+        ],
+        "image_id": 1268
+    },
+    {
+        "path": "",
+        "caption": "a large and wide street covered in lots of traffic lights.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 43,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 97,
+                "class_name": "street"
+            },
+            {
+                "class": 47,
+                "class_name": "traffic light"
+            }
+        ],
+        "image_id": 166391
+    },
+    {
+        "path": "",
+        "caption": "a white and blue buss driving on a cobblestone road.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 534673
+    },
+    {
+        "path": "",
+        "caption": "a young boy standing on a field next to a giraffe.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            }
+        ],
+        "image_id": 449909
+    },
+    {
+        "path": "",
+        "caption": "two cups sitting on top of a gray counter.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 52,
+                "class_name": "cup"
+            },
+            {
+                "class": 31,
+                "class_name": "counter"
+            }
+        ],
+        "image_id": 305343
+    },
+    {
+        "path": "",
+        "caption": "a red double decker bus on a street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 550691
+    },
+    {
+        "path": "",
+        "caption": "a red and yellow bus parked in front of a tall building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 355817
+    },
+    {
+        "path": "",
+        "caption": "a large red and white bus on a city street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 303305
+    },
+    {
+        "path": "",
+        "caption": "a group of men standing inside of a bus.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 463199
+    },
+    {
+        "path": "",
+        "caption": "two giraffe standing next to each other on a field.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            }
+        ],
+        "image_id": 165336
+    },
+    {
+        "path": "",
+        "caption": "a giraffe drinking milk from a bottle.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 35,
+                "class_name": "bottle"
+            }
+        ],
+        "image_id": 302452
+    },
+    {
+        "path": "",
+        "caption": "a white dog standing on top of a wooden bench.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 452891
+    },
+    {
+        "path": "",
+        "caption": "a giraffe standing in front of a bus.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 245513
+    },
+    {
+        "path": "",
+        "caption": "two giraffes are standing next to a building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 33707
+    },
+    {
+        "path": "",
+        "caption": "a brown and gold fire hydrant in front of a brick building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 91,
+                "class_name": "hydrant"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 171050
+    },
+    {
+        "path": "",
+        "caption": "there is a very tall giraffe standing in the wild",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            }
+        ],
+        "image_id": 134689
+    },
+    {
+        "path": "",
+        "caption": "a small white dog on a wooden bench.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 546829
+    },
+    {
+        "path": "",
+        "caption": "a wooden bench is sitting next to a grassy field.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 32,
+                "class_name": "bench"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 162130
+    },
+    {
+        "path": "",
+        "caption": "an orange and black train with train cars passing trees.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 9,
+                "class_name": "train"
+            },
+            {
+                "class": 14,
+                "class_name": "trees"
+            }
+        ],
+        "image_id": 396568
+    },
+    {
+        "path": "",
+        "caption": "two buses parked next to each other in front of a building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 507797
+    },
+    {
+        "path": "",
+        "caption": "a street intersection with old buildings in the background.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 97,
+                "class_name": "street"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 115946
+    },
+    {
+        "path": "",
+        "caption": "a person sitting on a bench in a park.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 566436
+    },
+    {
+        "path": "",
+        "caption": "a red and gold painted fire hydrant on the street",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 91,
+                "class_name": "hydrant"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 344909
+    },
+    {
+        "path": "",
+        "caption": "a giraffe is walking in some tall grass",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 217614
+    },
+    {
+        "path": "",
+        "caption": "a very big city bus on a big street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 42070
+    },
+    {
+        "path": "",
+        "caption": "a wooden bench and a fire hydrant on a field.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 32,
+                "class_name": "bench"
+            },
+            {
+                "class": 91,
+                "class_name": "hydrant"
+            }
+        ],
+        "image_id": 372203
+    },
+    {
+        "path": "",
+        "caption": "a large bus on the side of the road.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 452321
+    },
+    {
+        "path": "",
+        "caption": "a public transit bus on a city street ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 165039
+    },
+    {
+        "path": "",
+        "caption": "a wood bench is next to a tree",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 11,
+                "class_name": "tree"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 437514
+    },
+    {
+        "path": "",
+        "caption": "a yellow bus that is sitting in the grass.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 387387
+    },
+    {
+        "path": "",
+        "caption": "a couple of people sitting on top of a wooden bench.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 537153
+    },
+    {
+        "path": "",
+        "caption": "the picnic table under the tree.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 16,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 5,
+                "class_name": "table"
+            },
+            {
+                "class": 11,
+                "class_name": "tree"
+            }
+        ],
+        "image_id": 551350
+    },
+    {
+        "path": "",
+        "caption": "a large white bus sitting in front of a tall building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 2,
+                "class_name": "building"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 138979
+    },
+    {
+        "path": "",
+        "caption": "a large group of people standing in the street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 39,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 100723
+    },
+    {
+        "path": "",
+        "caption": "some children are riding on a mini orange train",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 9,
+                "class_name": "train"
+            }
+        ],
+        "image_id": 1353
+    },
+    {
+        "path": "",
+        "caption": "a black cat with a hat on the ground.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 13,
+                "class_name": "hat"
+            },
+            {
+                "class": 61,
+                "class_name": "cat"
+            }
+        ],
+        "image_id": 108244
+    },
+    {
+        "path": "",
+        "caption": "a group of people walking across a busy city street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 49,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 184324
+    },
+    {
+        "path": "",
+        "caption": "two giraffe moving very quickly in the woods.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 11,
+                "class_name": "tree"
+            }
+        ],
+        "image_id": 211069
+    },
+    {
+        "path": "",
+        "caption": "a yellow train on the tracks with several cars",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 9,
+                "class_name": "train"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 130566
+    },
+    {
+        "path": "",
+        "caption": "a man punching an innocent giraffe.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 67,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            }
+        ],
+        "image_id": 130599
+    },
+    {
+        "path": "",
+        "caption": "a group of people that are behind a bus.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 353180
+    },
+    {
+        "path": "",
+        "caption": "a green bus with a smaller bus sitting on top of it.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 128051
+    },
+    {
+        "path": "",
+        "caption": "two tall giraffes are next to bare trees.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 14,
+                "class_name": "trees"
+            }
+        ],
+        "image_id": 229753
+    },
+    {
+        "path": "",
+        "caption": "a school bus is parked on the side of the street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 566758
+    },
+    {
+        "path": "",
+        "caption": "a green and white bus is on the street",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 516143
+    },
+    {
+        "path": "",
+        "caption": "a giraffe in a field with trees in the background",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 14,
+                "class_name": "trees"
+            },
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            }
+        ],
+        "image_id": 537053
+    },
+    {
+        "path": "",
+        "caption": "several cars are parked in front of a building.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 8,
+                "class_name": "car"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 17627
+    },
+    {
+        "path": "",
+        "caption": "a crowd of people standing in the middle of a street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 39,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 290248
+    },
+    {
+        "path": "",
+        "caption": "a black cat laying in the sun under a bench",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 16,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 320554
+    },
+    {
+        "path": "",
+        "caption": "a tall giraffe standing on top of a grass covered field.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 445675
+    },
+    {
+        "path": "",
+        "caption": "a bench sitting on the side of a road.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 32,
+                "class_name": "bench"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 417043
+    },
+    {
+        "path": "",
+        "caption": "a park with lots of benches under trees.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 16,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 32,
+                "class_name": "bench"
+            },
+            {
+                "class": 14,
+                "class_name": "trees"
+            }
+        ],
+        "image_id": 413404
+    },
+    {
+        "path": "",
+        "caption": "these man are standing near a fire hydrant",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 19,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 91,
+                "class_name": "hydrant"
+            }
+        ],
+        "image_id": 140556
+    },
+    {
+        "path": "",
+        "caption": "a group of giraffes that are standing in the grass.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 87,
+                "class_name": "giraffe"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 205282
+    },
+    {
+        "path": "",
+        "caption": "a traffic light in front of a tall building with red lights at the top. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 47,
+                "class_name": "traffic light"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 351559
+    },
+    {
+        "path": "",
+        "caption": "a group of people standing next to a double decker bus.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 7,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 392722
+    },
+    {
+        "path": "",
+        "caption": "there are not many passengers on the bus.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 484404
+    },
+    {
+        "path": "",
+        "caption": "a man is riding a horse in an open field.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 43,
+                "class_name": "horse"
+            }
+        ],
+        "image_id": 183675
+    },
+    {
+        "path": "",
+        "caption": "an orange cat sunning itself on a lawn chair.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 7,
+                "class_name": "chair"
+            }
+        ],
+        "image_id": 210099
+    },
+    {
+        "path": "",
+        "caption": "a small black dog sitting in an orange checkered chair.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 7,
+                "class_name": "chair"
+            }
+        ],
+        "image_id": 517832
+    },
+    {
+        "path": "",
+        "caption": "a young child squats down in front of a bowl.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 63,
+                "class_name": "bowl"
+            }
+        ],
+        "image_id": 20333
+    },
+    {
+        "path": "",
+        "caption": "a black and white cat sitting on top of a wooden chair.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 7,
+                "class_name": "chair"
+            }
+        ],
+        "image_id": 329319
+    },
+    {
+        "path": "",
+        "caption": "there is a cat laying down on a keyboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 56,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 71,
+                "class_name": "keyboard"
+            }
+        ],
+        "image_id": 364297
+    },
+    {
+        "path": "",
+        "caption": "a man walking in front of an open umbrella.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 407943
+    },
+    {
+        "path": "",
+        "caption": "a large siamese cat sitting on top of a laptop computer.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 425390
+    },
+    {
+        "path": "",
+        "caption": "a man riding on the back of an elephant through a city street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 68,
+                "class_name": "elephant"
+            }
+        ],
+        "image_id": 415748
+    },
+    {
+        "path": "",
+        "caption": "a cute cat laying down in a sink.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 181859
+    },
+    {
+        "path": "",
+        "caption": "a woman and a dog sitting on the ground.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 41,
+                "class_name": "dog"
+            }
+        ],
+        "image_id": 182805
+    },
+    {
+        "path": "",
+        "caption": "a chair in the corner on a boat.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 12,
+                "class_name": "boat"
+            },
+            {
+                "class": 7,
+                "class_name": "chair"
+            }
+        ],
+        "image_id": 156372
+    },
+    {
+        "path": "",
+        "caption": "small girl reaching for her umbrella.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 44,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 198489
+    },
+    {
+        "path": "",
+        "caption": "a man in a suit with a blue tie and vest.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 2,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 88,
+                "class_name": "tie"
+            }
+        ],
+        "image_id": 18770
+    },
+    {
+        "path": "",
+        "caption": "a white dog sitting on red table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 318908
+    },
+    {
+        "path": "",
+        "caption": "a cat sitting in front of a large computer.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 131131
+    },
+    {
+        "path": "",
+        "caption": "a white truck with a red car sitting in it's back.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 8,
+                "class_name": "car"
+            },
+            {
+                "class": 3,
+                "class_name": "truck"
+            }
+        ],
+        "image_id": 426372
+    },
+    {
+        "path": "",
+        "caption": "a horse in a pasture of tall grass observing an energetic dog.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 38,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 43,
+                "class_name": "horse"
+            },
+            {
+                "class": 41,
+                "class_name": "dog"
+            }
+        ],
+        "image_id": 49269
+    },
+    {
+        "path": "",
+        "caption": "a brown and white cat laying on top of a bed.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 261706
+    },
+    {
+        "path": "",
+        "caption": "a chicago logo boat is traveling in the water. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 12,
+                "class_name": "boat"
+            }
+        ],
+        "image_id": 178744
+    },
+    {
+        "path": "",
+        "caption": "three asian people are riding on top of an elephant. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 68,
+                "class_name": "elephant"
+            }
+        ],
+        "image_id": 183437
+    },
+    {
+        "path": "",
+        "caption": "the black cat with white patches is sleeping on a computer keyboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 63,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 71,
+                "class_name": "keyboard"
+            }
+        ],
+        "image_id": 311789
+    },
+    {
+        "path": "",
+        "caption": "there are women that are laughing under the umbrella",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 16,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 301867
+    },
+    {
+        "path": "",
+        "caption": "a woman standing in a kitchen next to a table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 441247
+    },
+    {
+        "path": "",
+        "caption": "a woman standing next to a brown and white dog.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 41,
+                "class_name": "dog"
+            }
+        ],
+        "image_id": 367818
+    },
+    {
+        "path": "",
+        "caption": "a man and his friends are standing outside next to a truck",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 3,
+                "class_name": "truck"
+            }
+        ],
+        "image_id": 297022
+    },
+    {
+        "path": "",
+        "caption": "a dark cat hiding in between a laptop. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 174231
+    },
+    {
+        "path": "",
+        "caption": "pedestrians walking on sidewalk with umbrella on rainy day.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 177861
+    },
+    {
+        "path": "",
+        "caption": "a black cat laying on a white lap top.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 56,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 198641
+    },
+    {
+        "path": "",
+        "caption": "there is a dog on top of a truck outside.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 3,
+                "class_name": "truck"
+            },
+            {
+                "class": 41,
+                "class_name": "dog"
+            }
+        ],
+        "image_id": 474164
+    },
+    {
+        "path": "",
+        "caption": "a little girl is holding an umbrella on a wet day.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 28,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 7088
+    },
+    {
+        "path": "",
+        "caption": "a cat laying on top of a black office chair.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 7,
+                "class_name": "chair"
+            }
+        ],
+        "image_id": 264441
+    },
+    {
+        "path": "",
+        "caption": "a black and white cat sitting on top of a chair.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 7,
+                "class_name": "chair"
+            }
+        ],
+        "image_id": 231831
+    },
+    {
+        "path": "",
+        "caption": "a man is sitting on the back of an elephant. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 68,
+                "class_name": "elephant"
+            }
+        ],
+        "image_id": 440171
+    },
+    {
+        "path": "",
+        "caption": "a dog that is standing on the side of a boat.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 12,
+                "class_name": "boat"
+            }
+        ],
+        "image_id": 489014
+    },
+    {
+        "path": "",
+        "caption": "an orange cat sitting on top of a computer desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 245576
+    },
+    {
+        "path": "",
+        "caption": "the people are sitting outside under a large umbrella.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 16,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 309964
+    },
+    {
+        "path": "",
+        "caption": "the young woman is standing in the rain under her umbrella ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 16,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 250127
+    },
+    {
+        "path": "",
+        "caption": "an orange and white cat laying on top of a sink.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 58111
+    },
+    {
+        "path": "",
+        "caption": "a wooden table with an umbrella on it.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 121506
+    },
+    {
+        "path": "",
+        "caption": "a cat sitting in a chair looking up",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 7,
+                "class_name": "chair"
+            }
+        ],
+        "image_id": 353970
+    },
+    {
+        "path": "",
+        "caption": "a cat sitting between two bikes sitting next to each other.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 24,
+                "class_name": "bike"
+            }
+        ],
+        "image_id": 109055
+    },
+    {
+        "path": "",
+        "caption": "a black cat is sitting in a bathroom sink.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 501523
+    },
+    {
+        "path": "",
+        "caption": "an old black and white photo of cars parked near a building ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 19,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 8,
+                "class_name": "car"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 567197
+    },
+    {
+        "path": "",
+        "caption": "a white airplane parked on a runway under a blue sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 16,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 50,
+                "class_name": "airplane"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 479912
+    },
+    {
+        "path": "",
+        "caption": "horses communing with each other on a shady street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 43,
+                "class_name": "horse"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 17178
+    },
+    {
+        "path": "",
+        "caption": "a woman sitting on top of a red motorcycle.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 394199
+    },
+    {
+        "path": "",
+        "caption": "a man is standing next to a motorcycle outside",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 5,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 18,
+                "class_name": "motorcycle"
+            }
+        ],
+        "image_id": 571264
+    },
+    {
+        "path": "",
+        "caption": "a man sitting in the back of a truck.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 3,
+                "class_name": "truck"
+            }
+        ],
+        "image_id": 400815
+    },
+    {
+        "path": "",
+        "caption": "a dog wears a tie.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 2,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 88,
+                "class_name": "tie"
+            }
+        ],
+        "image_id": 505573
+    },
+    {
+        "path": "",
+        "caption": "three women wearing long dresses standing behind a dog.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 12,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 41,
+                "class_name": "dog"
+            }
+        ],
+        "image_id": 554579
+    },
+    {
+        "path": "",
+        "caption": "a truck that is sitting in the street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 3,
+                "class_name": "truck"
+            }
+        ],
+        "image_id": 478474
+    },
+    {
+        "path": "",
+        "caption": "a young man performing tricks on a skateboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 7977
+    },
+    {
+        "path": "",
+        "caption": "a horse standing in a field.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 43,
+                "class_name": "horse"
+            }
+        ],
+        "image_id": 481159
+    },
+    {
+        "path": "",
+        "caption": "a child is doing a trick on a skateboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 451084
+    },
+    {
+        "path": "",
+        "caption": "a young man with long hair, wearing all black, doing stunts on a skateboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 13201
+    },
+    {
+        "path": "",
+        "caption": "a little girl wearing pajamas is riding on a skateboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 358195
+    },
+    {
+        "path": "",
+        "caption": "a little child riding on top of a white horse.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 43,
+                "class_name": "horse"
+            }
+        ],
+        "image_id": 308545
+    },
+    {
+        "path": "",
+        "caption": "a girl in white and pink shirt riding on a horse.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 43,
+                "class_name": "horse"
+            }
+        ],
+        "image_id": 45070
+    },
+    {
+        "path": "",
+        "caption": "a man sitting on top of a skateboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 229553
+    },
+    {
+        "path": "",
+        "caption": "a skateboarder is on top of a cement bowl.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 63,
+                "class_name": "bowl"
+            }
+        ],
+        "image_id": 31093
+    },
+    {
+        "path": "",
+        "caption": "a woman in black shirt riding a skateboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 500270
+    },
+    {
+        "path": "",
+        "caption": "a man riding on the back of a brown horse.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 43,
+                "class_name": "horse"
+            }
+        ],
+        "image_id": 23034
+    },
+    {
+        "path": "",
+        "caption": "a man kneeling down in front of a refrigerator.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 75,
+                "class_name": "refrigerator"
+            }
+        ],
+        "image_id": 425226
+    },
+    {
+        "path": "",
+        "caption": "a road traveling along a field under a cloudy sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 16,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 17,
+                "class_name": "road"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 168619
+    },
+    {
+        "path": "",
+        "caption": "a large black counter top sitting next to a sink.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 31,
+                "class_name": "counter"
+            },
+            {
+                "class": 53,
+                "class_name": "sink"
+            }
+        ],
+        "image_id": 165257
+    },
+    {
+        "path": "",
+        "caption": "a group of people in the snow with skis.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 77,
+                "class_name": "skis"
+            }
+        ],
+        "image_id": 562818
+    },
+    {
+        "path": "",
+        "caption": "a dog standing on the back of a brown car.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 8,
+                "class_name": "car"
+            }
+        ],
+        "image_id": 78823
+    },
+    {
+        "path": "",
+        "caption": "a small kitten standing in a blue hat on top of a table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 13,
+                "class_name": "hat"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 554291
+    },
+    {
+        "path": "",
+        "caption": "a number of horses in a field near a building ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 19,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 43,
+                "class_name": "horse"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 234807
+    },
+    {
+        "path": "",
+        "caption": "a bicycle is standing next to a bed in a room.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 7,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 24,
+                "class_name": "bike"
+            },
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 274687
+    },
+    {
+        "path": "",
+        "caption": "there is a man standing next to the kitchen counter.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 7,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 31,
+                "class_name": "counter"
+            }
+        ],
+        "image_id": 527750
+    },
+    {
+        "path": "",
+        "caption": "a group of people sitting on a wooden bench.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 531707
+    },
+    {
+        "path": "",
+        "caption": "a group of people standing outside of a bus.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 64,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 4,
+                "class_name": "bus"
+            }
+        ],
+        "image_id": 278848
+    },
+    {
+        "path": "",
+        "caption": "a man sitting alone on a park bench in a park.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 264535
+    },
+    {
+        "path": "",
+        "caption": "a car is parked on the side of the street in the rain.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 8,
+                "class_name": "car"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 354829
+    },
+    {
+        "path": "",
+        "caption": "a spotted kitten sitting on a wooden bench.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 118515
+    },
+    {
+        "path": "",
+        "caption": "there is only one horse in the grassy field. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 43,
+                "class_name": "horse"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 491683
+    },
+    {
+        "path": "",
+        "caption": "a train traveling through the countryside next to a dirt road.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 9,
+                "class_name": "train"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 225946
+    },
+    {
+        "path": "",
+        "caption": "a woman and her child sitting next to a man on a park bench.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 87144
+    },
+    {
+        "path": "",
+        "caption": "an elderly woman sitting on the bench resting.  ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 273132
+    },
+    {
+        "path": "",
+        "caption": "a yellow and brown fire hydrant on the side of the road",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 91,
+                "class_name": "hydrant"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 427500
+    },
+    {
+        "path": "",
+        "caption": "a brown dog with a collar sniffing a red fire hydrant",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 91,
+                "class_name": "hydrant"
+            }
+        ],
+        "image_id": 291664
+    },
+    {
+        "path": "",
+        "caption": "a large yellow school bus stopping on a road.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 4,
+                "class_name": "bus"
+            },
+            {
+                "class": 17,
+                "class_name": "road"
+            }
+        ],
+        "image_id": 88462
+    },
+    {
+        "path": "",
+        "caption": "a grey and orange fire hydrant next to a street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 91,
+                "class_name": "hydrant"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 417779
+    },
+    {
+        "path": "",
+        "caption": "a white meta bench next to a patch of grass.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 15,
+                "class_name": "grass"
+            },
+            {
+                "class": 32,
+                "class_name": "bench"
+            }
+        ],
+        "image_id": 322829
+    },
+    {
+        "path": "",
+        "caption": "an image of a fired hydrant on the street",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 91,
+                "class_name": "hydrant"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 138550
+    },
+    {
+        "path": "",
+        "caption": "groups of people walk around a huge, multi engine airplane.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 94,
+                "class_name": "engine"
+            }
+        ],
+        "image_id": 478862
+    },
+    {
+        "path": "",
+        "caption": "a little boy sitting on a skateboard and riding it",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 455555
+    },
+    {
+        "path": "",
+        "caption": "a brown, white and black cat looking at a laptop.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 38,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 115885
+    },
+    {
+        "path": "",
+        "caption": "a  dog sitting on top of an open suitcase ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 99,
+                "class_name": "suitcase"
+            }
+        ],
+        "image_id": 180296
+    },
+    {
+        "path": "",
+        "caption": "a couple of cars on a city street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 8,
+                "class_name": "car"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 396338
+    },
+    {
+        "path": "",
+        "caption": "a cat sitting on top of a wooden desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 119828
+    },
+    {
+        "path": "",
+        "caption": "a cat sitting in front of a flat screen tv.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 20,
+                "class_name": "monitor"
+            }
+        ],
+        "image_id": 350054
+    },
+    {
+        "path": "",
+        "caption": "a man is standing at the back of a boat",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 12,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 12,
+                "class_name": "boat"
+            }
+        ],
+        "image_id": 508101
+    },
+    {
+        "path": "",
+        "caption": "an old truck in the field near some building structures",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 19,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 3,
+                "class_name": "truck"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 205289
+    },
+    {
+        "path": "",
+        "caption": "a little boy is playing with a suitcase.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 62,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 99,
+                "class_name": "suitcase"
+            }
+        ],
+        "image_id": 350019
+    },
+    {
+        "path": "",
+        "caption": "a cat sitting on top of a banana tree.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 11,
+                "class_name": "tree"
+            }
+        ],
+        "image_id": 269314
+    },
+    {
+        "path": "",
+        "caption": "a dog sitting behind a pair of black shoes.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 33,
+                "class_name": "shoes"
+            }
+        ],
+        "image_id": 412240
+    },
+    {
+        "path": "",
+        "caption": "a woman that is standing up in the grass.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 39,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 161875
+    },
+    {
+        "path": "",
+        "caption": "a cat sitting on top of a bed.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 491757
+    },
+    {
+        "path": "",
+        "caption": "a picture of a elephant with a cart on its back ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 76,
+                "class_name": "cart"
+            },
+            {
+                "class": 68,
+                "class_name": "elephant"
+            }
+        ],
+        "image_id": 158945
+    },
+    {
+        "path": "",
+        "caption": "a woman is sitting with an umbrella outside",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 121417
+    },
+    {
+        "path": "",
+        "caption": "a little girl that is standing with an umbrella.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 22,
+                "class_name": "umbrella"
+            }
+        ],
+        "image_id": 408120
+    },
+    {
+        "path": "",
+        "caption": "this is a grey cat laying down on a bed",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 405306
+    },
+    {
+        "path": "",
+        "caption": "a cat sitting on the back of a sofa looking out a window.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 51,
+                "class_name": "sofa"
+            }
+        ],
+        "image_id": 101420
+    },
+    {
+        "path": "",
+        "caption": "a person looks at a very big computer monitor. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 38,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 20,
+                "class_name": "monitor"
+            }
+        ],
+        "image_id": 310980
+    },
+    {
+        "path": "",
+        "caption": "dog smiles while sleeping in a bed.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 63,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 40,
+                "class_name": "bed"
+            },
+            {
+                "class": 41,
+                "class_name": "dog"
+            }
+        ],
+        "image_id": 170278
+    },
+    {
+        "path": "",
+        "caption": "three dogs on a field of green grass",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 41,
+                "class_name": "dog"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 269113
+    },
+    {
+        "path": "",
+        "caption": "a brown desk with a wooden chair in a classroom.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 7,
+                "class_name": "chair"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 17182
+    },
+    {
+        "path": "",
+        "caption": "a boy standing on skis in the snow.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 39,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 77,
+                "class_name": "skis"
+            }
+        ],
+        "image_id": 289417
+    },
+    {
+        "path": "",
+        "caption": "a person that is doing a trick in the air.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "image_id": 401250
+    },
+    {
+        "path": "",
+        "caption": "a pair of bears climb up in a tree.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 86,
+                "class_name": "bear"
+            },
+            {
+                "class": 11,
+                "class_name": "tree"
+            }
+        ],
+        "image_id": 431727
+    },
+    {
+        "path": "",
+        "caption": "a vase siting on top of a wooden shelf near a map.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 74,
+                "class_name": "vase"
+            },
+            {
+                "class": 54,
+                "class_name": "shelf"
+            }
+        ],
+        "image_id": 167240
+    },
+    {
+        "path": "",
+        "caption": "a boy doing a skateboard trick on a street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 119911
+    },
+    {
+        "path": "",
+        "caption": "a person in the heavy snow on a snowboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 92,
+                "class_name": "snowboard"
+            }
+        ],
+        "image_id": 451043
+    },
+    {
+        "path": "",
+        "caption": "a black horse is standing in the sand, with people in the background. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 43,
+                "class_name": "horse"
+            }
+        ],
+        "image_id": 462904
+    },
+    {
+        "path": "",
+        "caption": "a large group of horse with men riding on a few of them",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 43,
+                "class_name": "horse"
+            }
+        ],
+        "image_id": 185473
+    },
+    {
+        "path": "",
+        "caption": "a young man riding a skateboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 36,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 18519
+    },
+    {
+        "path": "",
+        "caption": "people are standing on top of a snowy mountain.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 42,
+                "class_name": "mountain"
+            }
+        ],
+        "image_id": 94944
+    },
+    {
+        "path": "",
+        "caption": "a man that has a skateboard in the air.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 46,
+                "class_name": "skateboard"
+            }
+        ],
+        "image_id": 128699
+    },
+    {
+        "path": "",
+        "caption": "a group of people on skis in the snow",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 77,
+                "class_name": "skis"
+            }
+        ],
+        "image_id": 470779
+    },
+    {
+        "path": "",
+        "caption": "a group of young children sitting in the grass.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 6954
+    },
+    {
+        "path": "",
+        "caption": "a group of people are with a horse in a stable",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 43,
+                "class_name": "horse"
+            }
+        ],
+        "image_id": 481582
+    },
+    {
+        "path": "",
+        "caption": "a couple of people are outside near some trees",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 19,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 14,
+                "class_name": "trees"
+            }
+        ],
+        "image_id": 424642
+    },
+    {
+        "path": "",
+        "caption": "two horses grazing on grass in the sun",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 54,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 43,
+                "class_name": "horse"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 85823
+    },
+    {
+        "path": "",
+        "caption": "a young man is working behind a counter. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 31,
+                "class_name": "counter"
+            }
+        ],
+        "image_id": 330818
+    },
+    {
+        "path": "",
+        "caption": "a woman with blue hair standing next to a horse.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 43,
+                "class_name": "horse"
+            }
+        ],
+        "image_id": 353051
+    },
+    {
+        "path": "",
+        "caption": "two plates near a bottle.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 19,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 23,
+                "class_name": "plate"
+            },
+            {
+                "class": 35,
+                "class_name": "bottle"
+            }
+        ],
+        "image_id": 470121
+    },
+    {
+        "path": "",
+        "caption": "several plates are set on a table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 23,
+                "class_name": "plate"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 62554
+    },
+    {
+        "path": "",
+        "caption": "a very thick pizza is on a plate with one piece taken.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 66,
+                "class_name": "pizza"
+            },
+            {
+                "class": 23,
+                "class_name": "plate"
+            }
+        ],
+        "image_id": 172571
+    },
+    {
+        "path": "",
+        "caption": "two boys are playing with a soccer ball.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 62,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 85,
+                "class_name": "ball"
+            }
+        ],
+        "image_id": 225405
+    },
+    {
+        "path": "",
+        "caption": "a man on a surfboard in the ocean.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            }
+        ],
+        "image_id": 4765
+    },
+    {
+        "path": "",
+        "caption": "a man riding a wave on top of a yellow surfboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            }
+        ],
+        "image_id": 262587
+    },
+    {
+        "path": "",
+        "caption": "an open laptop computer sitting on top of a bed.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 243199
+    },
+    {
+        "path": "",
+        "caption": "a skateboarder in a blue jacket is doing a trick",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 2,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 19,
+                "class_name": "jacket"
+            }
+        ],
+        "image_id": 473118
+    },
+    {
+        "path": "",
+        "caption": "a young man on a surfboard on a wave.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            }
+        ],
+        "image_id": 561223
+    },
+    {
+        "path": "",
+        "caption": "a laptop computers and a desktop computer sit next to each other.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 64,
+                "class_name": "computer"
+            }
+        ],
+        "image_id": 97994
+    },
+    {
+        "path": "",
+        "caption": "a cute little blond girl sitting next to a pizza.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 66,
+                "class_name": "pizza"
+            }
+        ],
+        "image_id": 140987
+    },
+    {
+        "path": "",
+        "caption": "a large bed with a lamp on either side lighting the room. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 40,
+                "class_name": "bed"
+            },
+            {
+                "class": 38,
+                "class_name": "lamp"
+            }
+        ],
+        "image_id": 483050
+    },
+    {
+        "path": "",
+        "caption": "a young boy sitting at a laptop computer.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 64,
+                "class_name": "computer"
+            }
+        ],
+        "image_id": 497344
+    },
+    {
+        "path": "",
+        "caption": "a surfboard sitting next to a shopping cart.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            },
+            {
+                "class": 76,
+                "class_name": "cart"
+            }
+        ],
+        "image_id": 164115
+    },
+    {
+        "path": "",
+        "caption": "a wooden desk sitting in a living room with a monitor on top of it.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 20,
+                "class_name": "monitor"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 569059
+    },
+    {
+        "path": "",
+        "caption": "a wooden desk with a laptop computer sitting on it.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 29,
+                "class_name": "desk"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 37740
+    },
+    {
+        "path": "",
+        "caption": "a laptop computer sitting on top of a lego desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 541664
+    },
+    {
+        "path": "",
+        "caption": "a man on a surfboard in the water.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            }
+        ],
+        "image_id": 549055
+    },
+    {
+        "path": "",
+        "caption": "a very large pizza on a wooden table .",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 66,
+                "class_name": "pizza"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 329455
+    },
+    {
+        "path": "",
+        "caption": "a woman stands in the dining area at the table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 139
+    },
+    {
+        "path": "",
+        "caption": "a young girl tries to keep her balance on a surfboard.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            }
+        ],
+        "image_id": 498807
+    },
+    {
+        "path": "",
+        "caption": "two pieces of pizza are served on a plate.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 66,
+                "class_name": "pizza"
+            },
+            {
+                "class": 23,
+                "class_name": "plate"
+            }
+        ],
+        "image_id": 294831
+    },
+    {
+        "path": "",
+        "caption": "a person riding a surfboard on a wave",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "image_id": 210915
+    },
+    {
+        "path": "",
+        "caption": "a person on a surfboard is surfing on a crashing wave.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            }
+        ],
+        "image_id": 297595
+    },
+    {
+        "path": "",
+        "caption": "a picture of a young boy laying on top of a bed.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 199551
+    },
+    {
+        "path": "",
+        "caption": "a slice of pizza sitting on top of a white plate.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 66,
+                "class_name": "pizza"
+            },
+            {
+                "class": 23,
+                "class_name": "plate"
+            }
+        ],
+        "image_id": 84431
+    },
+    {
+        "path": "",
+        "caption": "a piece of pizza left on a plate",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 66,
+                "class_name": "pizza"
+            },
+            {
+                "class": 23,
+                "class_name": "plate"
+            }
+        ],
+        "image_id": 189451
+    },
+    {
+        "path": "",
+        "caption": "a small pizza in the middle of a table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 5,
+                "class_name": "table"
+            },
+            {
+                "class": 66,
+                "class_name": "pizza"
+            }
+        ],
+        "image_id": 276285
+    },
+    {
+        "path": "",
+        "caption": "a room with a tv in the background and a laptop screen in the foreground ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 11,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 20,
+                "class_name": "monitor"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 368684
+    },
+    {
+        "path": "",
+        "caption": "a paper plate that has two pieces of pizza on it.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 66,
+                "class_name": "pizza"
+            },
+            {
+                "class": 23,
+                "class_name": "plate"
+            }
+        ],
+        "image_id": 232489
+    },
+    {
+        "path": "",
+        "caption": "a woven basket with slices of pizza in it",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 66,
+                "class_name": "pizza"
+            },
+            {
+                "class": 67,
+                "class_name": "basket"
+            }
+        ],
+        "image_id": 474167
+    },
+    {
+        "path": "",
+        "caption": "a small bed with lots of bottles underneath",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 30,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 35,
+                "class_name": "bottle"
+            },
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 463842
+    },
+    {
+        "path": "",
+        "caption": "a woman sitting in front of a giant pizza.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 66,
+                "class_name": "pizza"
+            }
+        ],
+        "image_id": 361238
+    },
+    {
+        "path": "",
+        "caption": "a pizza that is sitting on a plastic tray.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 66,
+                "class_name": "pizza"
+            },
+            {
+                "class": 23,
+                "class_name": "plate"
+            }
+        ],
+        "image_id": 127476
+    },
+    {
+        "path": "",
+        "caption": "a young boy sitting on a bed in a bedroom.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 460333
+    },
+    {
+        "path": "",
+        "caption": "a vase sitting on a wooden table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 74,
+                "class_name": "vase"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 467315
+    },
+    {
+        "path": "",
+        "caption": "a person with a surfboard in a room.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            }
+        ],
+        "image_id": 302990
+    },
+    {
+        "path": "",
+        "caption": "a woman sitting in front of a laptop computer.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 64,
+                "class_name": "computer"
+            }
+        ],
+        "image_id": 451155
+    },
+    {
+        "path": "",
+        "caption": "a person standing on a surfboard in the water.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            }
+        ],
+        "image_id": 209829
+    },
+    {
+        "path": "",
+        "caption": "a bunch of surfboards that are in the sand.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 23,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 79,
+                "class_name": "surfboard"
+            },
+            {
+                "class": 70,
+                "class_name": "sand"
+            }
+        ],
+        "image_id": 16451
+    },
+    {
+        "path": "",
+        "caption": "a large pizza is on a white plate",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 66,
+                "class_name": "pizza"
+            },
+            {
+                "class": 23,
+                "class_name": "plate"
+            }
+        ],
+        "image_id": 431568
+    },
+    {
+        "path": "",
+        "caption": "a laptop with a stationary mouse attached to it.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 42,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 81,
+                "class_name": "mouse"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 248631
+    },
+    {
+        "path": "",
+        "caption": "a little girl is kneeling in front of an open refrigerator. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 75,
+                "class_name": "refrigerator"
+            }
+        ],
+        "image_id": 231339
+    },
+    {
+        "path": "",
+        "caption": "a large clock tower in the center of a city.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 34,
+                "class_name": "tower"
+            },
+            {
+                "class": 25,
+                "class_name": "clock"
+            }
+        ],
+        "image_id": 425925
+    },
+    {
+        "path": "",
+        "caption": "a man looking at a laptop with a confused look",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 38,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 492110
+    },
+    {
+        "path": "",
+        "caption": "a large kite on a field of green grass ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 69,
+                "class_name": "kite"
+            },
+            {
+                "class": 15,
+                "class_name": "grass"
+            }
+        ],
+        "image_id": 433515
+    },
+    {
+        "path": "",
+        "caption": "a kite is flying in a clear sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 69,
+                "class_name": "kite"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 549738
+    },
+    {
+        "path": "",
+        "caption": "a young girl standing in front of a pizza.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 66,
+                "class_name": "pizza"
+            }
+        ],
+        "image_id": 374982
+    },
+    {
+        "path": "",
+        "caption": "a young woman with a slice of pizza in her mouth",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 54,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 66,
+                "class_name": "pizza"
+            }
+        ],
+        "image_id": 58350
+    },
+    {
+        "path": "",
+        "caption": "two desktop computers sitting on top of a desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 64,
+                "class_name": "computer"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 486040
+    },
+    {
+        "path": "",
+        "caption": "an open laptop computer sitting next to a phone.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 4,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 49,
+                "class_name": "phone"
+            }
+        ],
+        "image_id": 182202
+    },
+    {
+        "path": "",
+        "caption": "a large clock sitting in the middle of a street.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 25,
+                "class_name": "clock"
+            },
+            {
+                "class": 97,
+                "class_name": "street"
+            }
+        ],
+        "image_id": 175438
+    },
+    {
+        "path": "",
+        "caption": "kites are flying in the sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 69,
+                "class_name": "kite"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 405279
+    },
+    {
+        "path": "",
+        "caption": "an open laptop computer sitting on top of a wooden table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 178469
+    },
+    {
+        "path": "",
+        "caption": "two computers are sitting on top of the desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 64,
+                "class_name": "computer"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 340894
+    },
+    {
+        "path": "",
+        "caption": "a child sitting down in front of a bowl.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 63,
+                "class_name": "bowl"
+            }
+        ],
+        "image_id": 530061
+    },
+    {
+        "path": "",
+        "caption": "a large building with a clock at the top of it .",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 25,
+                "class_name": "clock"
+            },
+            {
+                "class": 2,
+                "class_name": "building"
+            }
+        ],
+        "image_id": 308193
+    },
+    {
+        "path": "",
+        "caption": "a laptop that is sitting on a bed.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 40,
+                "class_name": "bed"
+            }
+        ],
+        "image_id": 433192
+    },
+    {
+        "path": "",
+        "caption": "a living room with the tv on and a wheel on the wall.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 31,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 20,
+                "class_name": "monitor"
+            },
+            {
+                "class": 21,
+                "class_name": "wheel"
+            }
+        ],
+        "image_id": 195754
+    },
+    {
+        "path": "",
+        "caption": "a laptop computer sitting on top of a white desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 63602
+    },
+    {
+        "path": "",
+        "caption": "a few different computers are placed on the desk. ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 64,
+                "class_name": "computer"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 154705
+    },
+    {
+        "path": "",
+        "caption": "a cat laying on top of a chair in the living room ",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 61,
+                "class_name": "cat"
+            },
+            {
+                "class": 7,
+                "class_name": "chair"
+            }
+        ],
+        "image_id": 366141
+    },
+    {
+        "path": "",
+        "caption": "a laptop computer sitting on top of a wooden desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 239318
+    },
+    {
+        "path": "",
+        "caption": "a man standing in front of a clock.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 25,
+                "class_name": "clock"
+            }
+        ],
+        "image_id": 334399
+    },
+    {
+        "path": "",
+        "caption": "a lot of potted plants sitting on a glass table.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 72,
+                "class_name": "plant"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 398652
+    },
+    {
+        "path": "",
+        "caption": "a computer monitor sitting on top of a desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 20,
+                "class_name": "monitor"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 262227
+    },
+    {
+        "path": "",
+        "caption": "a couple of computer monitors sitting on top of a wooden desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 32,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 20,
+                "class_name": "monitor"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 371677
+    },
+    {
+        "path": "",
+        "caption": "there is a lap top computer on the desk",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 215778
+    },
+    {
+        "path": "",
+        "caption": "there is a person in the picture by itself.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": -1,
+                "obj_id": -1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "image_id": 99024
+    },
+    {
+        "path": "",
+        "caption": "this is a large kite flying high in the sky.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 47,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 69,
+                "class_name": "kite"
+            },
+            {
+                "class": 1,
+                "class_name": "sky"
+            }
+        ],
+        "image_id": 7784
+    },
+    {
+        "path": "",
+        "caption": "a young child and cat in a living room.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 61,
+                "class_name": "cat"
+            }
+        ],
+        "image_id": 84362
+    },
+    {
+        "path": "",
+        "caption": "a woman and small child are trying to fly a kite.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 60,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 69,
+                "class_name": "kite"
+            }
+        ],
+        "image_id": 39914
+    },
+    {
+        "path": "",
+        "caption": "a computer keyboard sitting next to a mouse.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 71,
+                "class_name": "keyboard"
+            },
+            {
+                "class": 81,
+                "class_name": "mouse"
+            }
+        ],
+        "image_id": 409630
+    },
+    {
+        "path": "",
+        "caption": "a very nice looking deck area with a small table and a laptop.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 60449
+    },
+    {
+        "path": "",
+        "caption": "a blue office chair sitting next to a wooden desk.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 6,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 7,
+                "class_name": "chair"
+            },
+            {
+                "class": 29,
+                "class_name": "desk"
+            }
+        ],
+        "image_id": 189820
+    },
+    {
+        "path": "",
+        "caption": "a table that has some computers on it",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 1,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 64,
+                "class_name": "computer"
+            },
+            {
+                "class": 5,
+                "class_name": "table"
+            }
+        ],
+        "image_id": 148620
+    },
+    {
+        "path": "",
+        "caption": "a computer mouse is beside a notebook computer.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 25,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 28,
+                "class_name": "laptop"
+            },
+            {
+                "class": 81,
+                "class_name": "mouse"
+            }
+        ],
+        "image_id": 372466
+    },
+    {
+        "path": "",
+        "caption": "a man that is sitting in front of a laptop.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 15,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 28,
+                "class_name": "laptop"
+            }
+        ],
+        "image_id": 367095
+    },
+    {
+        "path": "",
+        "caption": "a small boy trying to fly a small kite",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 60,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "class": 69,
+                "class_name": "kite"
+            }
+        ],
+        "image_id": 154425
+    },
+    {
+        "path": "",
+        "caption": "a brown bear sitting on top of a persons back.",
+        "relationships": [
+            {
+                "sub_id": 0,
+                "predicate": 35,
+                "obj_id": 1
+            }
+        ],
+        "objects": [
+            {
+                "class": 86,
+                "class_name": "bear"
+            },
+            {
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "image_id": 528705
+    }
+]
