@@ -1,4 +1,4 @@
-AMCF
+MMEvaluation 
 ====================================
 
 ### 1. Generate the images:
@@ -52,4 +52,4 @@ then the Aesthetic.json will be generated which record the Aesthetic score of ea
    
 caculate the diversity: `python ./evaluation/diversity.py`
 
-caculate the novelty: `python ./evaluation/novelty.py` # cocodataset is no need to run this command# AMCF
+caculate the novelty: `python ./evaluation/novelty.py` # cocodataset is no need to run this command# MMEvaluation
